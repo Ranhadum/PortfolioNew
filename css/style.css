@@ -7,7 +7,9 @@ html, body {
     font-family: 'VT323', monospace !important;
     color :#fff !important;
 }
-
+li {
+    font-size: 18px;
+}
 .nav {
     margin-top: 2.5%;
 }
@@ -16,6 +18,7 @@ html, body {
     font-style: normal;
     color :#fff;
     text-decoration: none;
+    
 }
 
 .site {
@@ -40,9 +43,13 @@ html, body {
 }
 .navbar {
     text-align: right;
+    
 }
 .navigation {
-    margin-right: 5%
+    margin-right: 5%;
+}
+.nav-link {
+     font-size: 20px;
 }
 .pageHeading {
     width: 100%;
@@ -71,4 +78,27 @@ html, body {
 
 .pt {
     padding-top: 5%;
+}
+.imgMe {
+    width: 125px;
+}
+.int {
+    display: flex;
+    flex-flow: wrap;
+}
+.pbackground {
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+.pbar {
+    background: linear-gradient(
+        to bottom, rgb(86, 86, 86) 0%, rgb(104, 20, 20) 100%);
+
+}
+
+.crlborder {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-bottom: 2rem;
 }
