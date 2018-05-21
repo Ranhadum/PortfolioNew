@@ -43,13 +43,15 @@ li {
 }
 .navbar {
     text-align: right;
-    
 }
 .navigation {
     margin-right: 5%;
 }
 .nav-link {
      font-size: 20px;
+}
+.navbutton{
+    font-size: none;
 }
 .pageHeading {
     width: 100%;
@@ -81,7 +83,6 @@ li {
 }
 .imgMe {
     width: 125px;
-<<<<<<< HEAD
 }
 .int {
     display: flex;
@@ -102,6 +103,4 @@ li {
     margin-left: auto;
     margin-right: auto; 
     margin-bottom: 2rem;
-=======
->>>>>>> 5e32db7f03abae65e5a962eca4106b7a5f8764d1
 }
