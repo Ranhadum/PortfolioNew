@@ -81,6 +81,7 @@ li {
 }
 .imgMe {
     width: 125px;
+<<<<<<< HEAD
 }
 .int {
     display: flex;
@@ -101,4 +102,6 @@ li {
     margin-left: auto;
     margin-right: auto; 
     margin-bottom: 2rem;
+=======
+>>>>>>> 5e32db7f03abae65e5a962eca4106b7a5f8764d1
 }
