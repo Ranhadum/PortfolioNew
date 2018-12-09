@@ -1,11 +1,11 @@
 
 html, body {
-    color: #fff;
+    color: #595959;
     height: 100%;
-    background-color: #a0a0a0; 
+    background-color: #b2d4e8; 
     width: 100%;
     font-family: 'VT323', monospace !important;
-    color :#fff !important;
+    color :#595959 !important;
 }
 li {
     font-size: 18px;
@@ -16,22 +16,22 @@ li {
 
 .links {
     font-style: normal;
-    color :#fff;
+    color :#595959;
     text-decoration: none;
     
 }
 
 .site {
     height: 100%;
-    background-color: #a0a0a0;
+    background-color: #b2d4e8;
 }
 .page {
-    background-color: #a0a0a0;
+    background-color: #b2d4e8;
     height: 100%;
 }
 
 .links:hover {
-    color: #ad2929;
+    color: #81adc6;
 }
 .navbarsizer {
     text-align: right;
@@ -61,7 +61,7 @@ li {
     padding-left: 25px !important;
 }
 .branding:hover {
-    color: #fff;
+    color: #595959;
 }
 .footer {
     background-color: #6df995;
@@ -72,7 +72,7 @@ li {
     font-size: 12px;
 }
 .Bcolor {
-    background-color: #ad2929!important;
+    background-color: #558aaa!important;
 }
 .page-title {
     color:#fcfffd;
